@@ -29,6 +29,6 @@ Compare the sales and orders using single chart.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-##Dashboard
+## Dashboard
 ![Screenshot (9)](https://github.com/user-attachments/assets/637704cb-a537-4096-95dd-568a99d83db1)
 
